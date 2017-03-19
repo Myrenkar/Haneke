@@ -23,3 +23,10 @@
 #import "HNKNetworkFetcher.h"
 #import "UIImageView+Haneke.h"
 #import "UIButton+Haneke.h"
+
+
+//! Project version number for Haneke.
+FOUNDATION_EXPORT double HanekeVersionNumber;
+
+//! Project version string for Haneke.
+FOUNDATION_EXPORT const unsigned char HanekeVersionString[];
